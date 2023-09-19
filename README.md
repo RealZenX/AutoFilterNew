@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/bf65716e300f6141e6c33" alt="AutoFilterNew Logo">
+  <img src="https://graph.org/file/706f3447db2ad55cf8900.jpg" alt="AutoFilterNew Logo">
 </p>
 <h1 align="center">
   Wednesday
